@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'restaurant',
 
     'crispy_forms',
+
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
@@ -55,7 +56,6 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'django.contrib.staticfiles',
 ]
-
 SITE_ID = 1
 
 MIDDLEWARE = [
