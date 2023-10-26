@@ -1,3 +1,3 @@
 # Food Ordering App
 
-In this app we use HTML/Bootstrap and django on the backend. 
+In this app I've used HTML/Bootstrap on the front end and django on the back end. 
