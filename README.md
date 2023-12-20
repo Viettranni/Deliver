@@ -18,12 +18,15 @@ User-Friendly Interface: Intuitive design for a seamless customer experience.
 Comprehensive Solution: Combines Django's backend capabilities with a responsive front end.
 
 ## How to Use:
+
 Customer App:
 
 Browse through the menu to view available food options.
 Add desired items to the cart and proceed to checkout.
 Provide necessary details for order placement.
-Restaurant Staff App:
+Restaurant 
+
+Staff App:
 
 Access the backend to update the menu based on inventory and preferences.
 Track incoming orders and manage the workflow within the restaurant.
