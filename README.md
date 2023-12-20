@@ -1,23 +1,23 @@
 
-### Food Ordering App
+#Food Ordering App
 Video Demo: https://youtu.be/AFO4mSMQnOs
 
 ## Description:
 Welcome to the Food Ordering App, a dynamic and comprehensive solution for both customers and restaurant staff. This application, built with HTML/Bootstrap for the front end and Python Django for the back end, is designed to provide a seamless and enjoyable food ordering experience.
 
-# Customer App:
+## Customer App:
 The Customer App is tailored for end-users, offering a user-friendly interface powered by HTML and Bootstrap. Customers can easily browse through available food options, place orders, and interact with the ordering process effortlessly. The intuitive design ensures a smooth and enjoyable experience for users, enhancing their interaction with the app.
 
-# Restaurant Staff App:
+## Restaurant Staff App:
 Catering specifically to restaurant staff, the Restaurant Staff App equips them with the necessary tools to manage and process incoming orders efficiently. Staff members can manipulate and update the menu, track orders in real-time, and ensure a streamlined workflow within the restaurant. The integration of Django's backend capabilities adds robustness to the app, allowing for secure and efficient data management.
 
-# Features:
+## Features:
 Dynamic Menu: Easily update and manage the menu to reflect current offerings.
 Order Tracking: Real-time tracking of incoming orders for efficient processing.
 User-Friendly Interface: Intuitive design for a seamless customer experience.
 Comprehensive Solution: Combines Django's backend capabilities with a responsive front end.
 
-# How to Use:
+## How to Use:
 Customer App:
 
 Browse through the menu to view available food options.
