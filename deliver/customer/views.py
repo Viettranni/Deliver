@@ -138,13 +138,14 @@ class MenuSearch(View):
         query = self.request.GET.get("q")
 
         menu_items = MenuItem.objects.filter(
-            Q(name__icontains=query),
-            Q(price__icontains=query),
+            Q(name__icontains=query) |
+            Q(price__icontains=query) |
             Q(description__icontains=query),
         )
 
         context = {
-            'menu_items': menu_items
+            'menu_items': menu_items,
+            'query': query,
         }
 
         return render(request, 'customer/menu.html', context)
